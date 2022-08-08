@@ -40,11 +40,11 @@ Windows
 ## Setting up your Username and Email
 **< This step will need to be completed per different computer you will use >**
 1. On your Command Line Interface, type:
-    `git config --global user.name "Put your Name in Here"`
-    `git config --global user.email your@email.here`
+    - `git config --global user.name "Put your Name in Here"`
+    - `git config --global user.email your@email.here`
 
 2. Check to see if that worked! Type:
-    `git config --list`
+    - `git config --list`
     
     You should see two lines in this list matching your values! Other lines are likely in the list as well.
     ```
@@ -79,9 +79,9 @@ Windows
 2. Select `HTTPS` if it is not currently selected.
 3. Select the `copy` icon next to the displayed `https://github.com/...` link.
 4. On your Command Line Interface, begin by moving to the directory you will store this repository.
-    Example: `cd ~/Bloom-Repos/`
+    - Example: `cd ~/Bloom-Repos/`
 5. Type: `git clone` then right click and paste the text you copied.
-    Example: `git clone https://github.com/yourusername/orientation-git.git`
+    - Example: `git clone https://github.com/yourusername/orientation-git.git`
 5. If you are prompted for a `username`, type in your GitHub username.
 6. If you are prompted for a `password`, copy and paste the personal access token you generated earlier.
 7. Type `ls` to view the newly cloned repository on your local computer.
@@ -99,9 +99,9 @@ Windows
 ## Commiting Changes Locally
 **< This step will typically be done one or more times on a project. Larger projects may require you to complete this step many times. >**
 1. On your Command Line, type: `git add .`
-    Attention: the `.` above is intentional. The `.` identifies to Git to add all changed files.
+    - Attention: the `.` above is intentional. The `.` identifies to Git to add all changed files.
 2. Type `git commit -m "Checked off my finished tasks"`
-    Attention: Be careful with the `"`quotes`"` above. Make sure to start and end the quotes.
+    - Attention: Be careful with the `"`quotes`"` above. Make sure to start and end the quotes.
 
 ## Pushing Changes to GitHub
 **< This step will typically be done one or more times on a project. If connected to Codegrade, this will cause your project to be scored again. >**

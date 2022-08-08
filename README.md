@@ -30,11 +30,11 @@ If you run into issues please visit the Hub's discussion forums or submit a tick
 **< This step will be used often >**
 
 MacOS
-: Open the Terminal: <Command + Space> `terminal`
+: Open the Terminal: `Command Key + Spacebar` then `terminal`
 
 Windows
 : Install [GitBash](https://git-scm.com/downloads) for Windows.
-: Open GitBash: <Windows Key> `git bash`
+: Open GitBash: `Windows Key` then `git bash`
 
 
 ## Setting up your Username and Email

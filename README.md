@@ -33,8 +33,8 @@ MacOS
 : Open the Terminal: `Command Key + Spacebar` then `terminal`
 
 Windows
-: Install [GitBash](https://git-scm.com/downloads) for Windows.
-: Open GitBash: `Windows Key` then `git bash`
+: Install [GitBash](https://git-scm.com/downloads) for Windows.  
+Open GitBash: `Windows Key` then `git bash`
 
 
 ## Setting up your Username and Email

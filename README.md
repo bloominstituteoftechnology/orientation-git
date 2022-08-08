@@ -88,9 +88,7 @@ Windows
     ```
 5. Type: `git clone` then right click and paste the text you copied.  
     Example: `git clone https://github.com/yourusername/orientation-git.git`
-5. If you are prompted for a `username`, type in your GitHub username.
-6. If you are prompted for a `password`, copy and paste the personal access token you generated earlier.
-7. Type `ls` to view the newly cloned repository on your local computer.
+6. Type `ls` to view the newly cloned repository on your local computer.
 
 ## Making Changes to the Repository
 **< This step will typically involve you working on your project with integrated development environments >**
@@ -112,9 +110,11 @@ Windows
 ## Pushing Changes to GitHub
 **< This step will typically be done one or more times on a project. If connected to Codegrade, this will cause your project to be scored again. >**
 1. Type `git push`
-2. Return to your GitHub repository page. Refresh if needed.
-3. Check that the README.md file has been recently updated.
-4. Scroll down to see the Xs you finished.
+2. If you are prompted for a `username`, type in your GitHub username.
+3. If you are prompted for a `password`, copy and paste the personal access token you generated earlier.
+4. Return to your GitHub repository page. Refresh if needed.
+5. Check that the README.md file has been recently updated.
+6. Scroll down to see the Xs you finished.
 
 ## Standard Work Flow ##
 1. On your local computer, edit the README.md file again to add `x`s to your now finished tasks.  

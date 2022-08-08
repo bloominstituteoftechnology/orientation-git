@@ -4,17 +4,17 @@ This github repository will walk you through setting up your Git and GitHub acco
 
 ## Checklist
 
-[x] View this README  
-[ ] Create a GitHub Account  
-[ ] Open your Command Line Interface  
-[ ] Setting up your Username and Email  
-[ ] Setting up your Authentication  
-[ ] Forking a Repository  
-[ ] Cloning a Repository  
-[ ] Making Changes to the Repository  
-[ ] Commiting Changes Locally  
-[ ] Moving Changes to GitHub   
-[ ] Standard Work Flow
+- [x] View this README  
+- [ ] Create a GitHub Account  
+- [ ] Open your Command Line Interface  
+- [ ] Setting up your Username and Email  
+- [ ] Setting up your Authentication  
+- [ ] Forking a Repository  
+- [ ] Cloning a Repository  
+- [ ] Making Changes to the Repository  
+- [ ] Commiting Changes Locally  
+- [ ] Moving Changes to GitHub   
+- [ ] Standard Work Flow
 
 ## View this README
 First step complete! Welcome and good luck over the next steps!  

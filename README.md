@@ -35,7 +35,7 @@ If you have not already created a GitHub account, follow this [GitHub](https://g
 ---
 
 ## Open your Command Line Interface
-*Become familiar with this step as you will use it often in your daily career.*
+*Become familiar with this step as you will use it often in your career.*
 
 MacOS
 > Open the Terminal: `Command Key + Spacebar` then type `terminal` in the search.

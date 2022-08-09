@@ -31,6 +31,7 @@ If you run into issues please visit the Hub's discussion forums or submit a tick
 
 If you have not already created a GitHub account, follow this [GitHub](https://github.com/) link.
 > Click Sign Up and follow the instructions.
+> During setup you will need to verify your email, which is likely the final step.
 
 ---
 
@@ -174,7 +175,7 @@ Choose to walk along with a video for setting up SSH or to follow the instructio
     ```
     git commit -m "Checked off my finished tasks"
     ```
-    Attention: Be careful with the `"`quotes`"` above. Make sure to start and end the quotes.
+    Attention: Be careful with the `"`quotes`"` in the message above. Make sure to start and end the quotes.
 
 ---
 
@@ -196,7 +197,7 @@ Choose to walk along with a video for setting up SSH or to follow the instructio
 1. On your local computer, edit the README.md file again to add `x`s to your now finished tasks.  
    > Technically you have not finished the Standard Work Flow task, leave it without an `x`.
 2. Practice adding, committing, and pushing. Check if your updates appear on GitHub.  
-   > Adjust the message accordingly, ie: `Checked off committing and pushing tasks`
+   > Adjust the message accordingly, ie: `Checked off additional finished tasks`
 3. Repeat this process one final time for your final `x`. You want to become familiar with the process.
 
 ---

@@ -59,7 +59,7 @@ Windows
 
 2. Check to see if that worked! Type:  
     ```
-    git config --list`
+    git config --list
     ```
     
     You should see two lines in this list matching your values! Other lines are likely in the list as well.
@@ -107,7 +107,27 @@ Choose to walk along with a video for setting up SSH or to follow the instructio
 
 ---
 
-## Cloning the Repository (All Tracks)
+## Cloning the Repository (Web)
+*This step will need to be once per repository you wish to place on your local computer.*
+
+1. Look for the green `Code` button on GitHub and select it.
+2. Select `SSH` if it is not currently selected.
+3. Select the `copy` icon next to the displayed `git@github.com:...` link.
+4. On your Command Line Interface, begin by moving to the directory you will store this repository.  
+    Example: `cd ~/Bloom-Repos/`  
+    If you need to build a new directory, follow these steps:  
+    ``` 
+    cd ~
+    mkdir Bloom-Repos
+    cd Bloom-Repos
+    ```
+5. Type: `git clone` then right click and paste the text you copied.  
+    > Example: `git clone git@github.com:yourusername/orientation-git.git`
+6. Type `ls` to view the newly cloned repository on your local computer.
+
+---
+
+## Cloning the Repository (BD and DS)
 *This step will need to be once per repository you wish to place on your local computer.*
 
 1. Look for the green `Code` button on GitHub and select it.

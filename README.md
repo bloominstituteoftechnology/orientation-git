@@ -96,7 +96,7 @@ Choose to walk along with a video for setting up SSH or to follow the instructio
 
 ---
 
-## Forking the Repository (Data Science and Full-Stack Web)
+## Forking the Repository
 *This step will need to be completed once per repository you wish a copy of on GitHub*
 1. On the GitHub page this README is located, near the top right select `Fork`.
 2. Under `Owner`, select your account.
@@ -104,7 +104,7 @@ Choose to walk along with a video for setting up SSH or to follow the instructio
 4. On the bottom of the page select `Create fork`.
 5. You should be redirected to a new repository associated with your user account on GitHub.  
   
-**Note:** Due to the way Backend Development projects are set up, learners will not need to fork projects outside of Orientation.
+**Note:** Backend Developers - Forking will automatically occur with your subsequent repositories. You will likely fork repos for personal or later career uses though.
 
 ---
 

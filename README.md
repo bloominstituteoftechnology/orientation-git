@@ -179,17 +179,29 @@ Choose to walk along with a video for setting up SSH or to follow the instructio
 
 ---
 
-## Pushing Changes to GitHub
+## Pushing Changes to GitHub (Web)
 *This step will typically be done one or more times on a project. If connected to Codegrade, this will cause your project to be scored again.*
 1. Type:
     ```
     git push
     ```
-3. If you are prompted for a `username`, type in your GitHub username.
-4. If you are prompted for a `password`, copy and paste the personal access token you generated earlier.
-5. Return to your GitHub repository page. Refresh if needed.
-6. Check that the README.md file has been recently updated.
-7. Scroll down to see the Xs you finished.
+2. Return to your GitHub repository page. Refresh if needed.
+3. Check that the README.md file has been recently updated.
+4. Scroll down to see the Xs you finished.
+
+---
+
+## Pushing Changes to GitHub (BD and DS)
+*This step will typically be done one or more times on a project. If connected to Codegrade, this will cause your project to be scored again.*
+1. Type:
+    ```
+    git push
+    ```
+2. If you are prompted for a `username`, type in your GitHub username.
+3. If you are prompted for a `password`, copy and paste the personal access token you generated earlier.
+4. Return to your GitHub repository page. Refresh if needed.
+5. Check that the README.md file has been recently updated.
+6. Scroll down to see the Xs you finished.
 
 ---
 

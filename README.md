@@ -68,19 +68,10 @@ Windows
     user.name=Radhika Zaur
     user.email=radhika.zaur@bloomtech.com
     ```
----
-    
-## Setting up Authentication (Full Stack Web)
-*This step will need to be completed once per different computer you will use.*
-  
-Choose to walk along with a video for setting up SSH or to follow the instructions directly from GitHub.
-> [MacOS Video Instructions](https://bloomtech-1.wistia.com/medias/nnqy1r1syw)  
-> [Windows Video Instructions](https://bloomtech-1.wistia.com/medias/41008ac2xu)  
-> [GitHub Instructions](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) (Make sure to select the appropriate operating system)
 
 ---
 
-## Setting up Authentication (Data Science and Backend Development Tracks)
+## Setting up Authentication
 *This step will need to be completed per different computer and may need to be re-completed after a set amount of time.*
 1. On GitHub: Click your profile icon on the top right.
 2. Choose `Settings`.
@@ -97,7 +88,7 @@ Choose to walk along with a video for setting up SSH or to follow the instructio
 ---
 
 ## Forking the Repository
-*This step will need to be completed once per repository you wish a copy of on GitHub*
+*This step will need to be completed once per repository you wish a your own copy of on GitHub*
 1. On the GitHub page this README is located, near the top right select `Fork`.
 2. Under `Owner`, select your account.
 3. Under `Repository name`, you may adjust the name of the repository if you like.
@@ -108,27 +99,7 @@ Choose to walk along with a video for setting up SSH or to follow the instructio
 
 ---
 
-## Cloning the Repository (Web)
-*This step will need to be once per repository you wish to place on your local computer.*
-
-1. Look for the green `Code` button on GitHub and select it.
-2. Select `SSH` if it is not currently selected.
-3. Select the `copy` icon next to the displayed `git@github.com:...` link.
-4. On your Command Line Interface, begin by moving to the directory you will store this repository.  
-    Example: `cd ~/Bloom-Repos/`  
-    If you need to build a new directory, follow these steps:  
-    ``` 
-    cd ~
-    mkdir Bloom-Repos
-    cd Bloom-Repos
-    ```
-5. Type: `git clone` then right click and paste the text you copied.  
-    > Example: `git clone git@github.com:yourusername/orientation-git.git`
-6. Type `ls` to view the newly cloned repository on your local computer.
-
----
-
-## Cloning the Repository (BD and DS)
+## Cloning the Repository
 *This step will need to be once per repository you wish to place on your local computer.*
 
 1. Look for the green `Code` button on GitHub and select it.
@@ -179,19 +150,7 @@ Choose to walk along with a video for setting up SSH or to follow the instructio
 
 ---
 
-## Pushing Changes to GitHub (Web)
-*This step will typically be done one or more times on a project. If connected to Codegrade, this will cause your project to be scored again.*
-1. Type:
-    ```
-    git push
-    ```
-2. Return to your GitHub repository page. Refresh if needed.
-3. Check that the README.md file has been recently updated.
-4. Scroll down to see the Xs you finished.
-
----
-
-## Pushing Changes to GitHub (BD and DS)
+## Pushing Changes to GitHub
 *This step will typically be done one or more times on a project. If connected to Codegrade, this will cause your project to be scored again.*
 1. Type:
     ```
